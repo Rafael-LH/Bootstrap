@@ -4,7 +4,9 @@
     list-style: none;
     text-decoration: none !important;
 }
-
+.text-compra{
+    color: #97c93e !important;
+}
 .footer{
     background: #1c3643;
 }
